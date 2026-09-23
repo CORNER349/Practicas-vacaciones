@@ -1,0 +1,7 @@
+Entero: 6
+Texto: 
+Decimal: 0.999
+Entero: 9
+Texto: 
+Entero: 4
+Texto: 
