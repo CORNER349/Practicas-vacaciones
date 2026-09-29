@@ -1,10 +1,6 @@
 from itertools import product
 
 def normalizar(expresion):
-    """
-    Elimina espacios y permite escribir algunos símbolos
-    de distintas formas.
-    """
 
     expresion = expresion.upper()
     expresion = expresion.replace(" ", "")
@@ -227,9 +223,8 @@ propiedades = {
 }
 
 
-print("======================================")
 print("   PROPIEDADES DE CONJUNTOS")
-print("======================================")
+
 
 print("""
 Símbolos:
